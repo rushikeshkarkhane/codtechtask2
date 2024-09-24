@@ -1,9 +1,9 @@
 # React To-Do List Application
-Name : Rushikesh Ajay Karkhane
-Domain : Web Devlopment
-Duration : September 2024 To October 2024
-Date : 24/09/2024
-Intern ID : CTO8DS7867
+- Name : Rushikesh Ajay Karkhane
+- Domain : Web Devlopment
+- Duration : September 2024 To October 2024
+- Date : 24/09/2024
+- Intern ID : CTO8DS7867
 ![result screenshot](./results/todo.png)
 ## Project Overview
 
